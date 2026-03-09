@@ -11,3 +11,5 @@ data/*.csv
 !data/.gitkeep
 .DS_Store
 Thumbs.db
+metabase_backup.db/
+docker-compose.yml
