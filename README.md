@@ -265,7 +265,9 @@ GROUP BY genres;
 
 ## 📸 Dashboard
 
-![Movies Dashboard](data/print_dashboard.png)
+![Movies Dashboard - Aba Principal de Filmes](assets/printMoviesTab1.png)
+![Movies Dashboard - Aba Secundária de Ratings](assets/printMoviesTab2.png)
+![Movies Dashboard - Aba Secundária de Usuários](assets/printMoviesTab3.png)
 
 O dashboard é dividido em 3 abas no Metabase:
 
