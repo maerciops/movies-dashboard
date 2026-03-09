@@ -1,0 +1,13 @@
+*.json
+!composer.json 
+credentials/
+secrets/
+.env
+.env.local
+config.env
+metabase-data/
+*.log
+data/*.csv
+!data/.gitkeep
+.DS_Store
+Thumbs.db
