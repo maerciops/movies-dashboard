@@ -7,10 +7,10 @@
 ## 🏗️ Arquitetura do Pipeline
 
 ```
-GCS (Bronze/Raw)
+GCS (Data)
       │
       ▼
-BigQuery - External Tables (raw_data)
+BigQuery - External Tables (bronze_data)
       │
       ▼
 BigQuery - Silver Layer (silver_data)
