@@ -10,7 +10,7 @@
 GCS (Data)
       │
       ▼
-BigQuery - External Tables (bronze_data)
+BigQuery - External Tables (raw_data)
       │
       ▼
 BigQuery - Silver Layer (silver_data)
